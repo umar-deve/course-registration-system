@@ -1,4 +1,4 @@
-# 🎓 Bells University Course Registration System
+# Course Registration System (ICT 235)
 
 **ICT 235 - Frontend Software Development Project**  
 *Department of Computer Science & Information Technology*
@@ -11,6 +11,7 @@
 | **Ibukun Alaofa** | 2024/13135 | Computer Science | Frontend Developer |
 | **Yussuff Olamitide** | 2024/13195 | Computer Science | UI/UX Designer |
 | **Unuigbe Emmanuel** | 2024/13023 | Information Technology | Documentation Specialist |
+| **Olaaje Muhammad** | 2024/13312 | Computer Science | Project Presenter |
 
 ## 📋 Project Overview
 A modern, responsive course registration web application for Bells University built with Next.js and TypeScript. This system allows students to browse courses, register for classes, view schedules, and manage their academic journey efficiently.
