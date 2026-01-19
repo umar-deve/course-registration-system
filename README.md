@@ -17,7 +17,7 @@
 A modern, responsive course registration web application for Bells University built with Next.js and TypeScript. This system allows students to browse courses, register for classes, view schedules, and manage their academic journey efficiently.
 
 ## ✨ Live Demo
-🔗 *[Project deployed link will be added here]*
+🔗 *https://course-registration-system-peach.vercel.app/*
 
 ## 🚀 Features
 ### Core Functionalities:
